@@ -1,2 +1,1 @@
-# -ethereum-trends
- ethereum trends analysis 
+# ethereum-trends-analysis  
